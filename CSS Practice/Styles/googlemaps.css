@@ -1,0 +1,15 @@
+.header, .main{
+    background-image: url("../Images/bg.png");
+}
+.head-title{
+    font-size: 25px;
+    font-weight: 100;
+}
+.item div.img, div.text{
+    border-bottom: 1px solid lightgrey;
+}
+.list-items{
+    background-color: white;
+    margin-left: 10px;
+    margin-top: 10px;
+}    
