@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://mobilepacthrd.appspot.com/customApps/ess/v1.7/ESSBeta.ipa</string>
+					<string>https://192.168.1.52:8443/mcbservices?data={"action":"downloadiosbuild","data":"{\"os\":\"iOS\",\"buildid\":13}"}</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.reliance.rcap.ess</string>
+				<string>com.cloudpact.simplysave</string>
 				<key>bundle-version</key>
 				<string>1.7</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>ESS Beta</string>
+				<string>SimplySave MCB Test</string>
 			</dict>
 		</dict>
 	</array>
